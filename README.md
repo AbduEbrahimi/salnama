@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # salnama
 
 salnama is a Python(v3.x) library for Calendar and Date Convertor For Persian Date, Gregorian Date ,Arabian Date with holiday and Events
@@ -8,27 +7,11 @@ salnama is a Python(v3.x) library for Calendar and Date Convertor For Persian Da
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install salnama
 ```bash
 pip3 install salnama
-=======
-# salnameh
-
-salnameh is a Python(v3.x) library for Calendar and Date Convertor For Persian Date, Gregorian Date ,Arabian Date with holiday and Events
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install salnameh
-```bash
-not ready ...
->>>>>>> 1fa3781a6dcd288f19d4b80f6c273e2135e6aaca
-```
 
 ## Usage
 
 ```python
-<<<<<<< HEAD
->>>from salnama import taghvim
-=======
 >>>from salnameh import taghvim
->>>>>>> 1fa3781a6dcd288f19d4b80f6c273e2135e6aaca
 >>> jalali  = taghvim.Jalali()
 >>> jalali.today()
 '1399-11-8'
