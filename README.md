@@ -4,9 +4,11 @@ salnama is a Python(v3.x) library for Calendar and Date Convertor For Persian Da
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install salnama
+Use the package manager [pip](https://pypi.org/project/salnama) to install salnama
 ```bash
 pip install salnama
+or
+python3 setup.py install
 ```
 
 ## Usage
