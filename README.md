@@ -12,8 +12,8 @@ pip install salnama
 ## Usage
 
 ```python
->>>from salnama import taghvim
->>> jalali  = taghvim.Jalali()
+>>> from salnama import taghvim
+>>> jalali = taghvim.Jalali()
 >>> jalali.today()
 '1399-11-8'
 >>> jalali.event(jalali.today())
@@ -22,7 +22,7 @@ pip install salnama
 'روز جهانی تئاتر'
 >>> jalali.event('1446-5-24') # Hijri Date
 'زمین لرزه ی بم- سالروز شهادت آشو زرتشت- جشن کریسمس'
->>> calendar= jalali.find_('2020-1-27',month=True,day=True,rtl=False)
+>>> calendar = jalali.find_('2020-1-27',month=True,day=True,rtl=False)
 >>> calendar
 ('سه شنبه', '6', 'آبان', '1399')
 >>> calendar[3]
