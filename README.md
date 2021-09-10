@@ -1,6 +1,18 @@
-# salnama
+## salnama
 
 salnama is a Python(v3.x) library for Calendar and Date Convertor For Persian Date, Gregorian Date ,Arabian Date with holiday and Events
+
+
+## تقویم ۵ ساله سالنما  
+# امکانات 
+از فروردین ۱۳۹۹ تا فروردین ۱۴۰۴ (۵ ساله) 
+شامل روز های تعطیل و مناسبت ها  
+امکان تبدیل تاریخ میلادی به جلالی و برعکس
+امکان تبدیل تاریخ جلالی به تاریخ هجری و برعکس
+امکان تبدیل تاریخ میلادی به تاریخ هجری و برعکس
+شامل نام روز ها و ماه ها به زبان های فارسی -لاتین -عربی
+امکان جستجو مناسبت ها و تعطیلات چند روز آینده یا گذشته
+
 
 ## Installation
 
@@ -10,6 +22,7 @@ pip3 install salnama
 or
 python3 setup.py install
 ```
+work on linux and python3
 
 ## Usage
 
